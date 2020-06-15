@@ -25,3 +25,7 @@ Industrial Communication
 Siemens  
 https://www.sitrain-learning.siemens.com/ELEARNING/en/rw77970/Industrial-Communication
 
+Logo! Web Based Training  
+Siemens  
+https://support.industry.siemens.com/cs/document/109757017/logo!-web-based-trainings?dti=0&lc=en-WW  
+
