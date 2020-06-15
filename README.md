@@ -1,4 +1,4 @@
-# automacaoTraining
+# Automation Study Resources
 Resources for training in automation systems
 
 Drive Technology  
