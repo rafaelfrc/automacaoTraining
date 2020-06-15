@@ -35,3 +35,28 @@ https://www.mitsubishielectric.com/fa/assist/e-learning/por.html
 Workshops FESTO:
 https://www.festo.com/cms/pt-br_br/63086.htm
 
+Energy University:  
+Schneider Electric  
+https://www.schneideruniversities.com/start  
+
+ABB My Learning:  
+ABB  
+https://mylearning.abb.com/  
+
+AVEVA Software Training  
+https://industrialtraining.aveva.com/global/portal/catalog.cfm?calendarID=183#courses_info  
+
+TATA Steel Courses:  
+https://capabilitydevelopment.org  
+
+Robótica  
+Kuka
+https://college.kuka.com/action?securedGetRequest_const=Q4IqWi51Hcvu5lxPff2kUt4WoILExu6k2LIrWDZ2afY4pcIYqB5ygjTMJSLdyVNuPBqQRqwUSCGD94dIejAMAQ
+
+Instrumentação  
+Krhone  
+https://academy-online.krohne.com/elearning/en/  
+
+
+
+
