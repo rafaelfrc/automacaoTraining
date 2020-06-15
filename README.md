@@ -1,7 +1,7 @@
 # Automation Study Resources
 Resources for training in automation systems
 
-Drive Technology  
+Drive Technology,   
 Siemens  
 https://www.sitrain-learning.siemens.com/ELEARNING/en/rw62202/Drives-Technology 
  
@@ -28,4 +28,10 @@ https://www.sitrain-learning.siemens.com/ELEARNING/en/rw77970/Industrial-Communi
 Logo! Web Based Training  
 Siemens  
 https://support.industry.siemens.com/cs/document/109757017/logo!-web-based-trainings?dti=0&lc=en-WW  
+
+Mitsubishi Electric:  
+https://www.mitsubishielectric.com/fa/assist/e-learning/por.html  
+
+Workshops FESTO:
+https://www.festo.com/cms/pt-br_br/63086.htm
 
