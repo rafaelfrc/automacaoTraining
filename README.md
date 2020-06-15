@@ -57,11 +57,11 @@ Instrumentação
 Krhone  
 https://academy-online.krohne.com/elearning/en/  
 
-Webinars  
+Webinars Exida  
 https://www.exida.com/Webinars/Recordings  
 
-Introduction to IoT
-CISCO
-https://www.netacad.com/courses/iot/introduction-iot
+Introduction to IoT  
+CISCO  
+https://www.netacad.com/courses/iot/introduction-iot  
 
 
